@@ -2,15 +2,9 @@
 <html>
 <head>
     <body>
-        <div id="counter">0</div>
-    <button onclick="NumGoUp()">hello world</button>
-    <script>  let count = 0;
- 
-        function NumGoUp() {
-            count++;
-            document.getElementById('counter').textContent = count;
-        }</script>
+
+    <button>hello world</button>
+
     </body>
 </head>
- 
 </html>

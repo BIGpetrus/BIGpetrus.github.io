@@ -2,7 +2,6 @@
 <html>
 <body>
 <h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-<button>1</button>
+<p>I'm petrus if you're here from YT thankfor watching the video.</p>
 </body>
 </html>
